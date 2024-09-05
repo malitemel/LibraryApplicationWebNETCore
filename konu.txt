@@ -1,0 +1,2 @@
+Asp.Net Core 7.0, Kütüphane Projesi => AspNet Core 7.0, MVC, Entity Framework Core, Asp.Net Core Identity Core, Repository Pattern
+>Asp.Net Core ile Sıfırdan Kütüphane Web Sitesi, kitap kategorileri ve kitapların ekle, sil, güncelle işlemleri, kullanıcı ve admin paneli
